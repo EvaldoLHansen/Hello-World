@@ -1,2 +1,5 @@
-# Hello World
- Primeiro Repositorio Versionado
+# Hello World!
+
+Primeiro Repositorio Versionado
+
+I am Learning Git and Github.
